@@ -1,0 +1,9 @@
+Z:\Системное программирование\SP_LessonTwo_14.03.18\SP_LessonTwo_14.03.18\bin\Debug\SP_LessonTwo_14.03.18.exe.config
+Z:\Системное программирование\SP_LessonTwo_14.03.18\SP_LessonTwo_14.03.18\bin\Debug\SP_LessonTwo_14.03.18.exe
+Z:\Системное программирование\SP_LessonTwo_14.03.18\SP_LessonTwo_14.03.18\bin\Debug\SP_LessonTwo_14.03.18.pdb
+Z:\Системное программирование\SP_LessonTwo_14.03.18\SP_LessonTwo_14.03.18\obj\Debug\SP_LessonTwo_14.03.18.csprojResolveAssemblyReference.cache
+Z:\Системное программирование\SP_LessonTwo_14.03.18\SP_LessonTwo_14.03.18\obj\Debug\SP_LessonTwo_14._03._18.Form1.resources
+Z:\Системное программирование\SP_LessonTwo_14.03.18\SP_LessonTwo_14.03.18\obj\Debug\SP_LessonTwo_14._03._18.Properties.Resources.resources
+Z:\Системное программирование\SP_LessonTwo_14.03.18\SP_LessonTwo_14.03.18\obj\Debug\SP_LessonTwo_14.03.18.csproj.GenerateResource.Cache
+Z:\Системное программирование\SP_LessonTwo_14.03.18\SP_LessonTwo_14.03.18\obj\Debug\SP_LessonTwo_14.03.18.exe
+Z:\Системное программирование\SP_LessonTwo_14.03.18\SP_LessonTwo_14.03.18\obj\Debug\SP_LessonTwo_14.03.18.pdb

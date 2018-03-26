@@ -1,0 +1,6 @@
+Z:\Системное программирование\SP_LessonFour_19.03.18\ConsoleAppTimer\ConsoleAppTimer\bin\Debug\ConsoleAppTimer.exe.config
+Z:\Системное программирование\SP_LessonFour_19.03.18\ConsoleAppTimer\ConsoleAppTimer\bin\Debug\ConsoleAppTimer.exe
+Z:\Системное программирование\SP_LessonFour_19.03.18\ConsoleAppTimer\ConsoleAppTimer\bin\Debug\ConsoleAppTimer.pdb
+Z:\Системное программирование\SP_LessonFour_19.03.18\ConsoleAppTimer\ConsoleAppTimer\obj\Debug\ConsoleAppTimer.csprojResolveAssemblyReference.cache
+Z:\Системное программирование\SP_LessonFour_19.03.18\ConsoleAppTimer\ConsoleAppTimer\obj\Debug\ConsoleAppTimer.exe
+Z:\Системное программирование\SP_LessonFour_19.03.18\ConsoleAppTimer\ConsoleAppTimer\obj\Debug\ConsoleAppTimer.pdb

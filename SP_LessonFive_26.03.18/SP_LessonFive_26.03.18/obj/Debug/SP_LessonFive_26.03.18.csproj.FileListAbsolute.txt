@@ -1,0 +1,6 @@
+Z:\Системное программирование\SP_LessonFive_26.03.18\SP_LessonFive_26.03.18\bin\Debug\SP_LessonFive_26.03.18.exe.config
+Z:\Системное программирование\SP_LessonFive_26.03.18\SP_LessonFive_26.03.18\bin\Debug\SP_LessonFive_26.03.18.exe
+Z:\Системное программирование\SP_LessonFive_26.03.18\SP_LessonFive_26.03.18\bin\Debug\SP_LessonFive_26.03.18.pdb
+Z:\Системное программирование\SP_LessonFive_26.03.18\SP_LessonFive_26.03.18\obj\Debug\SP_LessonFive_26.03.18.csprojResolveAssemblyReference.cache
+Z:\Системное программирование\SP_LessonFive_26.03.18\SP_LessonFive_26.03.18\obj\Debug\SP_LessonFive_26.03.18.exe
+Z:\Системное программирование\SP_LessonFive_26.03.18\SP_LessonFive_26.03.18\obj\Debug\SP_LessonFive_26.03.18.pdb

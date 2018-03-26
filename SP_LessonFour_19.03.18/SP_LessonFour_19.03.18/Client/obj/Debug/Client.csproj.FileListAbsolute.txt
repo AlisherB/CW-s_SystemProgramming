@@ -1,0 +1,16 @@
+Z:\Системное программирование\Client\bin\Debug\Client.exe.config
+Z:\Системное программирование\Client\bin\Debug\Client.exe
+Z:\Системное программирование\Client\bin\Debug\Client.pdb
+Z:\Системное программирование\Client\obj\Debug\Client.Form1.resources
+Z:\Системное программирование\Client\obj\Debug\Client.Properties.Resources.resources
+Z:\Системное программирование\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+Z:\Системное программирование\Client\obj\Debug\Client.exe
+Z:\Системное программирование\Client\obj\Debug\Client.pdb
+Z:\Системное программирование\SP_LessonFour_19.03.18\SP_LessonFour_19.03.18\Client\bin\Debug\Client.exe.config
+Z:\Системное программирование\SP_LessonFour_19.03.18\SP_LessonFour_19.03.18\Client\bin\Debug\Client.exe
+Z:\Системное программирование\SP_LessonFour_19.03.18\SP_LessonFour_19.03.18\Client\bin\Debug\Client.pdb
+Z:\Системное программирование\SP_LessonFour_19.03.18\SP_LessonFour_19.03.18\Client\obj\Debug\Client.Form1.resources
+Z:\Системное программирование\SP_LessonFour_19.03.18\SP_LessonFour_19.03.18\Client\obj\Debug\Client.Properties.Resources.resources
+Z:\Системное программирование\SP_LessonFour_19.03.18\SP_LessonFour_19.03.18\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+Z:\Системное программирование\SP_LessonFour_19.03.18\SP_LessonFour_19.03.18\Client\obj\Debug\Client.exe
+Z:\Системное программирование\SP_LessonFour_19.03.18\SP_LessonFour_19.03.18\Client\obj\Debug\Client.pdb
